@@ -1,0 +1,11 @@
+This is a modified version of the game CptnRuby included as an example with the [1] Gosu game development toolkit.
+
+Little "improvements" were made:
+
+ * added background music
+ * several sound effects
+ * a mini-map at the top right
+ * a gem count and timer at the top left
+ * a conclusion when you collect all gems
+
+[1] http://code.google.com/p/gosu/
